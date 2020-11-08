@@ -21,15 +21,18 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ## 📷 Screenshots
 
-# Mobile
+#### Mobile
 
 ![mobile login](.github/screenshot-login-mobile.png)
+-----------
 ![mobile timeline](.github/screenshot-timeline-mobile.png)
+-----------
 ![mobile new](.github/screenshot-new-mobile.png)
-
-# Web
+-----------
+#### Web
 
 ![web login](.github/screenshot-login-web.png)
+-----------
 ![web timeline](.github/screenshot-timeline-web.png)
 
 [rocketseat]: https://rocketseat.com.br/
