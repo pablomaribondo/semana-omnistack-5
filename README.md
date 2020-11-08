@@ -21,19 +21,25 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ## 📷 Screenshots
 
-#### Mobile
+### Mobile:
 
-![mobile login](.github/screenshot-login-mobile.png)
------------
-![mobile timeline](.github/screenshot-timeline-mobile.png)
------------
-![mobile new](.github/screenshot-new-mobile.png)
------------
-#### Web
+<img src=".github/screenshot-login-mobile.png" alt="mobile login" width="200" />
 
-![web login](.github/screenshot-login-web.png)
------------
-![web timeline](.github/screenshot-timeline-web.png)
+---
+
+<img src=".github/screenshot-timeline-mobile.png" alt="mobile timeline" width="200" />
+
+---
+
+<img src=".github/screenshot-new-mobile.png" alt="mobile new" width="200" />
+
+### Web:
+
+<img src=".github/screenshot-login-web.png" alt="web login" width="200" />
+
+---
+
+<img src=".github/screenshot-timeline-web.png" alt="web timeline" width="200" />
 
 [rocketseat]: https://rocketseat.com.br/
 [nodejs]: https://nodejs.org/en/
